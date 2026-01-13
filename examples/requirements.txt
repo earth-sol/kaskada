@@ -124,7 +124,7 @@ traitlets==5.9.0
 trove-classifiers==2023.2.8
 uri-template==1.2.0
 urllib3==1.26.14
-virtualenv==20.19.0
+virtualenv==20.36.1
 wcwidth==0.2.6
 webcolors==1.12
 webencodings==0.5.1
